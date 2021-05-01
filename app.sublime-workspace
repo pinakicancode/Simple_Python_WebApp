@@ -1,0 +1,225 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"rec",
+				"rect_color"
+			],
+			[
+				"get",
+				"get_rect\t0★ pro ⟠"
+			],
+			[
+				"pygame",
+				"pygame.Rect\t0★ pro ⟠"
+			],
+			[
+				"set",
+				"set_caption(…)\tfunction ⟠"
+			],
+			[
+				"rend",
+				"render_template('home')\t0★ pro ⟠"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"",
+				"Build With: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/pinak/OneDrive/Documents/Analytics_Projects/Simple_Python_WebApp/app.py",
+		"/C/Users/pinak/Downloads/README.md",
+		"/C/Users/pinak/OneDrive/Documents/Analytics_Projects/Competitive Coding/Rough_Proj/partialFunc.py",
+		"/C/Users/pinak/OneDrive/Documents/Analytics_Projects/python_testenv/firsttest.py",
+		"/C/Users/pinak/OneDrive/Documents/Analytics_Projects/Competitive Coding/Rough_Proj/HelloWorld/code1.py",
+		"/C/Users/pinak/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/pinak/OneDrive/Documents/Analytics_Projects/Competitive Coding/Rough_Proj/code5.py",
+		"/C/Users/pinak/OneDrive/Documents/Analytics_Projects/Competitive Coding/Rough_Proj/code4.py",
+		"/C/Users/pinak/OneDrive/Documents/Analytics_Projects/Competitive Coding/Rough_Proj/code2.py",
+		"/C/Users/pinak/OneDrive/Documents/Analytics_Projects/Competitive Coding/Rough_Proj/code1.py",
+		"/C/Users/pinak/OneDrive/Git-Repos/MyFirstGame/my_game.py",
+		"/C/Users/pinak/AppData/Roaming/Sublime Text 3/Packages/User/Python_conda.sublime-build",
+		"/C/Users/pinak/OneDrive/Git-Repos/MyFirstGame/README.md",
+		"/C/Users/pinak/OneDrive/Git-Repos/Simple_Python_WebApp/templates/layout.html",
+		"/C/Users/pinak/OneDrive/Git-Repos/Simple_Python_WebApp/forms.py",
+		"/C/Users/pinak/OneDrive/Git-Repos/Simple_Python_WebApp/templates/home.html",
+		"/C/Users/pinak/OneDrive/Git-Repos/Simple_Python_WebApp/templates/about.html",
+		"/C/Users/pinak/OneDrive/Git-Repos/Simple_Python_WebApp/templates/register.html",
+		"/C/Users/pinak/OneDrive/Git-Repos/Simple_Python_WebApp/templates/login.html",
+		"/C/Users/pinak/OneDrive/Git-Repos/Simple_Python_WebApp/HELP.md",
+		"/C/Users/pinak/OneDrive/Git-Repos/Simple_Python_WebApp/templates/main.css",
+		"/C/Users/pinak/OneDrive/Documents/Analytics_Projects/Project_1/test_file.py",
+		"/C/Users/pinak/AppData/Local/Temp/kite_tutorial.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"screen",
+			"ballrect"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
